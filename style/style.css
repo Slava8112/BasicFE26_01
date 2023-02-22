@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 10;
+    box-sizing: border-box;
+ }
+body{
+    background-color: coral;
+}
+h1{
+    color: rgb(196, 226, 23);
+    font-size: 60px;
+    width: 500px;
+    margin: 10px 450px 10px 450px;
+    border: 5px solid rgb(206, 170, 13);
+    padding: 10px 80px;
+    background-color: black;
+}
+h2{
+    color: rgb(21, 11, 155);
+    font: size 30px;
+    margin-top: 0px;
+    border: 5px double crimson;
+    background-color: mediumpurple;
+}
+h3{
+    color: rgb(21, 11, 155);
+    font: size 30px;
+    margin-top: 0px;
+    border: 5px double crimson;
+    background-color: mediumpurple;
+}
+h4{
+    color: rgb(21, 11, 155);
+    font: size 30px;
+    margin-top: 0px;
+    border: 5px double crimson;
+    background-color: mediumpurple;
+}
+div{
+    margin: 50px;
+    width: 310px;
+    border: 1px double;
+    background-color: gray;
+    
+}
+.hobby{
+    border: 5px solid brown;
+
+}
+.learn{
+    border: 4px solid greenyellow;
+}
+.dream{
+    border: 3px solid blue;
+}
+img{
+    width: 300px;
+    
+}
